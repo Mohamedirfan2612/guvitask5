@@ -1,4 +1,4 @@
-// program to change the lowercase to upper case
+// program to change the lowercase to uppercase
 import java.util.stream.Stream;
 
 public class UpperCaseConverter {
